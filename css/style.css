@@ -1,0 +1,23 @@
+
+        h1{
+            color: green;
+        }
+    
+        body{
+            background-color: rgb(23, 3);
+            font-size: 12px;
+            font-weight: bold;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-style: italic;
+            line-height: 1.6em;
+        }
+        .box-1{
+            background-color: #333;
+            color: #fff;
+
+        }
+
+        .container{
+            width: 95%;
+            margin: auto;
+        }
